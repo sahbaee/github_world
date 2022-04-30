@@ -1,2 +1,2 @@
-# github_world
+# Github World
 Github playground repository :)
